@@ -1,5 +1,5 @@
-ManorPublic
-===========
+Instructions for Compiling Asteroids
+====================================
 
 This is my rendition of the classic arcade game 'Asteroids' written in C and using the code library OpenGL. To compile this program, download all the files and store it in a folder. 
 
