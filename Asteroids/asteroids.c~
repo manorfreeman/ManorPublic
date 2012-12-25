@@ -2876,7 +2876,7 @@ void Reshape(int w, int h)
 }
 /*
 * \name   main
-* \author Manor Freeman
+* \author Manor Freeman and UWO CS3388
 * \date   2012/10/26
 *
 * Main method of program - controls execution of game
