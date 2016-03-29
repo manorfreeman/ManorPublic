@@ -1,4 +1,4 @@
 ManorPublic
 ===========
 
-This purpose of this repo is to allow me to increase my proficiency with Git and hopefully showcase some nice code while doing it. 
+This is a repo I made when I was just a lil baby programmer, the asteroids code is cool and fun if you want to use it for whatever.
